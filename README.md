@@ -1,5 +1,5 @@
 # ChatGPT API Chatbot
--- Django+NoneBot+Chat APP
+-- Django+NoneBot+ChatGPT APP
 
 ## Chat 
 -- Interact with the ChatGPT API through Django
